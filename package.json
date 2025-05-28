@@ -27,6 +27,6 @@
     "hexo-theme-icarus": "^5.3.0",
     "hexo-theme-landscape": "^1.0.0",
     "inferno": "^8.2.3",
-    "inferno-create-element": "^8.2.3"
+    "inferno-create-element": "^9.0.3"
   }
 }
